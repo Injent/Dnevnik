@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dnevnik</string>
+    <string name="sign_in">Авторизуйтесь</string>
+    <string name="token_request_url">https://login.dnevnik.ru/login/?ReturnUrl=https://login.dnevnik.ru/oauth2?response_type=token%26client_id=bb97b3e445a340b9b9cab4b9ea0dbd6f%26scope=CommonInfo,ContactInfo,FriendsAndRelatives,EducationalInfo</string>
+    <string name="home">Главная</string>
+    <string name="students">Топ</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="loading">Загрузка</string>
+    <string name="birthday">День рождения</string>
+</resources>
